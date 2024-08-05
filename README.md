@@ -1,8 +1,8 @@
 My name is Kurt, and I am a trainee as an IT specialist / computer scientist with a focus on application development from Germany.
 In my free time, I mainly do things.
-If you want to know more about me, you can visit [my website](https://kurtys.de). I tend to use [my selfhosted Gitea instance](https://git.tardis.systems/Kurt) to host my projects source code.
+If you want to know more about me, you can visit [my website](https://kurtys.de). I tend to use [my selfhosted Forgejo instance](https://git.tardis.systems/Kurt) to host my projects source code.
 
-If you want to have a chat or just need someone to talk to: feel free to contact me via [k00.eu/c](https://k00.eu/c).
+If you want to have a chat or just need someone to talk to: feel free to contact me via [k00.eu/c](https://k00.eu/c?ref=gh).
 
 <!---
 Kurty00/Kurty00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
